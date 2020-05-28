@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaUPN.Web", "BibliotecaUPN.Web\BibliotecaUPN.Web.csproj", "{2024BD2B-5897-4C36-AB3A-738F23148507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaTest", "BibliotecaTest\BibliotecaTest.csproj", "{F233BA4B-C1B3-47DE-86AA-FA165086F35C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2024BD2B-5897-4C36-AB3A-738F23148507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2024BD2B-5897-4C36-AB3A-738F23148507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2024BD2B-5897-4C36-AB3A-738F23148507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2024BD2B-5897-4C36-AB3A-738F23148507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F233BA4B-C1B3-47DE-86AA-FA165086F35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F233BA4B-C1B3-47DE-86AA-FA165086F35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F233BA4B-C1B3-47DE-86AA-FA165086F35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F233BA4B-C1B3-47DE-86AA-FA165086F35C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33674DEF-A1BB-4A01-95FA-F09A9120B31F}
+	EndGlobalSection
+EndGlobal
